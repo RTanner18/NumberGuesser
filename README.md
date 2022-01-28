@@ -2,4 +2,9 @@
 
 To-Do List
 
-- [ ] Input Data
+- [ ] Input Data - Textbox
+- [ ] Input Data - Submit Button
+- [ ] Output Console
+- [ ] Reverse Mode script
+- [ ] Enable RM slider
+
