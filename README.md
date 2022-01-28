@@ -1,5 +1,5 @@
 # NumberGuesser
 
 this is a test to see
-another test
+another test\n
 test #3
